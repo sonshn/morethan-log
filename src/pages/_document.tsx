@@ -9,7 +9,8 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <link
             rel="favicon"
-            sizes="192x192"
+            type="image/png"
+            sizes="96x96"
             href="/favicon-96x96.png"
           ></link>
           <link
