@@ -11,7 +11,7 @@ class MyDocument extends Document {
             type="image/png"
             sizes="96x96"
             href="/favicon-96x96.png"
-          >
+          ></link>
           <link
             rel="alternate"
             type="application/rss+xml"
