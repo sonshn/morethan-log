@@ -6,13 +6,12 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
           <link
-            rel="favicon"
+            rel="icon"
             type="image/png"
             sizes="96x96"
             href="/favicon-96x96.png"
-          ></link>
+          >
           <link
             rel="alternate"
             type="application/rss+xml"
